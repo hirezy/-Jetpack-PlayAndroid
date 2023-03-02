@@ -1,0 +1,7 @@
+rootProject.name='Jetpack-PlayAndroid'
+include ':app', ':lib_base', ':lib_image_loader', ':lib_net', ':lib_common_ui',':lib_webview'
+include ':module_login'
+include ':module_search'
+include ':module_about_us'
+include ':module_tree_detail'
+include ':module_home'
