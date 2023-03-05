@@ -105,8 +105,8 @@ https://github.com/lulululbj/wanandroid 项目提供的一些思路。
 ![](source/serachwx.png)
 
 个人资料
-![](name) |![](url) |
-:-------------------------:|:-------------------------:|
-![](csdn) |![](	https://blog.csdn.net/ljx1400052550) | 
-![](Gitee) |![](https://gitee.com/hirezy18271568836) | 
-![](Github) |![](https://github.com/hirezy/) | 
+![](name) |![](url) 
+:-------------------------:|:-------------------------:
+![](csdn) |![](	https://blog.csdn.net/ljx1400052550) 
+![](Gitee) |![](https://gitee.com/hirezy18271568836) 
+![](Github) |![](https://github.com/hirezy/) 
