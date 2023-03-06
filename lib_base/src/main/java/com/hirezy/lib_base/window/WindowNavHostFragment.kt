@@ -6,9 +6,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.NavHostFragment
 
-/**
- * Create by liwen on 2020/6/2
- */
 class WindowNavHostFragment : NavHostFragment() {
     override fun onCreateView(
         inflater: LayoutInflater,

@@ -6,9 +6,6 @@ import android.os.Build
 import android.view.View
 import android.view.WindowManager
 
-/**
- * Create by liwen on 2020-03-26
- */
 object StatusBarKt {
 
     /**

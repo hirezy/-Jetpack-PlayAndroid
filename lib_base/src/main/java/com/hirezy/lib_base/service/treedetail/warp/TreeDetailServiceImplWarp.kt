@@ -6,9 +6,6 @@ import com.alibaba.android.arouter.launcher.ARouter
 import com.hirezy.lib_base.service.ConstantsPath
 import com.hirezy.lib_base.service.treedetail.TreeDetailService
 
-/**
- * Create by liwen on 2020/5/26
- */
 class TreeDetailServiceImplWarp private constructor() {
 
     @Autowired(name = ConstantsPath.TREE_DETAIL_SERVICE_PATH)

@@ -12,9 +12,7 @@ import org.koin.androidx.viewmodel.ext.android.getViewModel
 import kotlin.reflect.KClass
 
 
-/**
- * Create by liwen on 2020-05-18
- */
+
 abstract class BaseFragment<T : ViewModel, M : ViewDataBinding> : Fragment() {
 
     lateinit var mViewModel: T

@@ -8,9 +8,7 @@ import com.hirezy.wan_android.di.allModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
-/**
- * Create by liwen on 2020-05-18
- */
+
 class App : Application() {
 
     override fun onCreate() {

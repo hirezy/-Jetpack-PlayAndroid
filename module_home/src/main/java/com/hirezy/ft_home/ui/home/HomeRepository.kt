@@ -7,9 +7,6 @@ import com.hirezy.lib_net.net.BaseRepository
 import com.hirezy.lib_net.net.RetrofitClient
 import com.hirezy.lib_net.model.NetResult
 
-/**
- * Create by liwen on 2020-05-18
- */
 class HomeRepository(private val service: RetrofitClient) : BaseRepository() {
 
     suspend fun getBanner(): NetResult<List<Banner>> {

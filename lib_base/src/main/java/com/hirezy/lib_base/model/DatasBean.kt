@@ -1,8 +1,6 @@
 package com.hirezy.lib_base.model
 
-/**
- * Create by liwen on 2020-05-19
- */
+
 data class DatasBean(
     val niceDate: String,
     val title: String,

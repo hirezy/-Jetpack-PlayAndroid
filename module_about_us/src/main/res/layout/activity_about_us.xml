@@ -62,7 +62,6 @@
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
                 android:padding="20dp">
 
                 <TextView
@@ -83,7 +82,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="6dp"
                     android:autoLink="web"
-                    android:text="https://github.com/winlee28"
+                    android:text="https://github.com/hirezy"
                     android:textColor="#FF6666"
                     android:textSize="20sp"
                     app:layout_constraintEnd_toEndOf="parent"
@@ -109,7 +108,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="6dp"
                     android:autoLink="web"
-                    android:text="https://blog.csdn.net/siyemuzi"
+                    android:text="https://blog.csdn.net/ljx1400052550"
                     android:textColor="#FF6666"
                     android:textSize="20sp"
                     app:layout_constraintEnd_toEndOf="parent"

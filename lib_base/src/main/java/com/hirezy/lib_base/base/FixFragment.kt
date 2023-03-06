@@ -12,9 +12,6 @@ import androidx.navigation.Navigator
 import androidx.navigation.fragment.FragmentNavigator
 import java.util.ArrayDeque
 
-/**
- * Create by liwen on 2020/6/2
- */
 @Navigator.Name("fixFragment")
 class FixFragmentNavigator(context: Context, manager: FragmentManager, containerId: Int) :
     FragmentNavigator(context, manager, containerId) {

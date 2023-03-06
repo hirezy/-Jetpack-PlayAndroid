@@ -6,9 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.hirezy.lib_common_ui.flowlayout.`interface`.NotifyDataSetChangedListener
 
-/**
- * Create by liwen on 2020-05-21
- */
+
 abstract class TagAdapter {
 
     abstract fun getItemCount(): Int

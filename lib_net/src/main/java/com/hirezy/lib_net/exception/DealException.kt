@@ -12,9 +12,7 @@ import java.net.UnknownHostException
 import java.net.UnknownServiceException
 import javax.net.ssl.SSLHandshakeException
 
-/**
- * Create by liwen on 2020-05-18
- */
+
 
 object DealException {
 

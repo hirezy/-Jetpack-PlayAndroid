@@ -21,9 +21,6 @@ import com.hirezy.lib_base.databinding.AbsListLayoutBinding
 import org.koin.androidx.viewmodel.ext.android.getViewModel
 import kotlin.reflect.KClass
 
-/**
- * Create by liwen on 2020/5/26
- */
 abstract class AbsListFragment<T, V : AbsListViewModel<T>> : Fragment(), OnRefreshListener,
     OnLoadMoreListener {
 

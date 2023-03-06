@@ -6,9 +6,6 @@ import com.alibaba.android.arouter.launcher.ARouter
 import com.hirezy.lib_base.service.ConstantsPath
 import com.hirezy.lib_base.service.search.SearchService
 
-/**
- * Create by liwen on 2020/6/1
- */
 class SearchWrapService private constructor() {
 
     @Autowired(name = ConstantsPath.SEARCH_SERVICE_PATH)

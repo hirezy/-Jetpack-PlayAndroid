@@ -9,9 +9,6 @@ import com.hirezy.lib_base.base.AbsListFragment
 import com.hirezy.lib_base.datasource.MutablePageKeyedDataSource
 import com.hirezy.lib_base.model.DatasBean
 
-/**
- * Create by liwen on 2020/6/4
- */
 class HomeListFragment : AbsListFragment<DatasBean, HomeListViewModel>() {
 
 

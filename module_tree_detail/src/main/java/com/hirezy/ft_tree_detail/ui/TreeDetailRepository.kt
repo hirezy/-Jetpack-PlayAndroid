@@ -6,9 +6,7 @@ import com.hirezy.lib_net.model.NetResult
 import com.hirezy.lib_net.net.BaseRepository
 import com.hirezy.lib_net.net.RetrofitClient
 
-/**
- * Create by liwen on 2020-05-21
- */
+
 class TreeDetailRepository(private val service: RetrofitClient) : BaseRepository() {
 
     suspend fun getTreeDetailList(count: Int, cid: Int): NetResult<TreeDetailModel> {

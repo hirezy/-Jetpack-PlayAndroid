@@ -6,10 +6,6 @@ import com.hirezy.ft_about_us.ui.AboutUsActivity
 import com.hirezy.lib_base.service.ConstantsPath
 import com.hirezy.lib_base.service.aboutus.AboutUsService
 
-/**
- * Create by liwen on 2020/7/6
- */
-
 @Route(path = ConstantsPath.ABOUT_US_SERVICE_PATH)
 class AboutUsServiceImpl : AboutUsService {
 

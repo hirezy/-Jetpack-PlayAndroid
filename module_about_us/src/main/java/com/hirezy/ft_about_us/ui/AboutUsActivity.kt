@@ -8,9 +8,6 @@ import com.hirezy.ft_about_us.R
 import com.hirezy.lib_base.utils.StatusBarKt
 import kotlinx.android.synthetic.main.activity_about_us.*
 
-/**
- * Create by liwen on 2020/7/6
- */
 class AboutUsActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {

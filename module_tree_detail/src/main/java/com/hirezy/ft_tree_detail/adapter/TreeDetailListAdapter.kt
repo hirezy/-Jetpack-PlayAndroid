@@ -13,9 +13,7 @@ import com.hirezy.ft_tree_detail.databinding.TreeDetailListItemBinding
 import com.hirezy.lib_base.service.webview.warp.WebViewWarpService
 import com.hirezy.lib_base.model.DatasBean
 
-/**
- * Create by liwen on 2020-05-22
- */
+
 class TreeDetailListAdapter(context: Context) :
     PagedListAdapter<DatasBean, TreeDetailListAdapter.ViewHolder>(
         object : DiffUtil.ItemCallback<DatasBean>() {

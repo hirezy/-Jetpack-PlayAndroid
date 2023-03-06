@@ -2,9 +2,7 @@ package com.hirezy.lib_base.utils
 
 import android.content.Context
 
-/**
- * Create by liwen on 2020/6/4
- */
+
 class BaseContext private constructor() {
 
 

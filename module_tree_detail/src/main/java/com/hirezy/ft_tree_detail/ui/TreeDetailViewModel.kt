@@ -12,9 +12,7 @@ import com.hirezy.lib_net.model.NetResult
 import kotlinx.coroutines.launch
 import java.util.*
 
-/**
- * Create by liwen on 2020-05-21
- */
+
 class TreeDetailViewModel(private val dataRepos: TreeDetailRepository) :
     AbsListViewModel<DatasBean>() {
 

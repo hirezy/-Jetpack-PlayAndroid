@@ -6,9 +6,7 @@ import androidx.paging.DataSource
 import androidx.paging.LivePagedListBuilder
 import androidx.paging.PagedList
 
-/**
- * Create by liwen on 2020-05-22
- */
+
 abstract class AbsListViewModel<T> : ViewModel() {
 
 

@@ -3,9 +3,7 @@ package com.hirezy.lib_base.utils
 import android.text.TextUtils
 import com.hirezy.lib_base.model.DatasBean
 
-/**
- * Create by liwen on 2020-05-19
- */
+
 object ConvertUtils {
 
     @JvmStatic

@@ -1,8 +1,5 @@
 package com.hirezy.lib_base.service
 
-/**
- * Create by liwen on 2020/5/26
- */
 object ConstantsPath {
 
     /**

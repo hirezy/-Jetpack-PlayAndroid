@@ -10,10 +10,6 @@ import com.hirezy.lib_base.utils.BaseContext
 import com.hirezy.lib_net.model.NetResult
 import kotlinx.coroutines.launch
 import java.util.*
-
-/**
- * Create by liwen on 2020/6/4
- */
 class HomeListViewModel(private val repository: HomeRepository) : AbsListViewModel<DatasBean>() {
 
     override fun createDataSource(): DataSource<Int, DatasBean> {

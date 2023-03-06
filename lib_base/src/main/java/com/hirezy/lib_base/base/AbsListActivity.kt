@@ -10,18 +10,16 @@ import androidx.paging.PagedListAdapter
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.scwang.smartrefresh.layout.SmartRefreshLayout
-import com.scwang.smartrefresh.layout.listener.OnLoadMoreListener
-import com.scwang.smartrefresh.layout.listener.OnRefreshListener
 import com.hirezy.lib_base.R
 import com.hirezy.lib_base.databinding.AbsListLayoutBinding
 import com.hirezy.lib_base.utils.StatusBarKt
+import com.scwang.smartrefresh.layout.SmartRefreshLayout
+import com.scwang.smartrefresh.layout.listener.OnLoadMoreListener
+import com.scwang.smartrefresh.layout.listener.OnRefreshListener
 import org.koin.androidx.viewmodel.ext.android.getViewModel
 import kotlin.reflect.KClass
 
 /**
- * Create by liwen on 2020-05-21
- *
  * 作为列表布局的父类
  */
 abstract class AbsListActivity<T, V : AbsListViewModel<T>> : AppCompatActivity(),

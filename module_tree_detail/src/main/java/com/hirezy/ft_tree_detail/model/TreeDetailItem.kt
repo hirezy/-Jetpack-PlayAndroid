@@ -1,8 +1,6 @@
 package com.hirezy.ft_tree_detail.model
 
-/**
- * Create by liwen on 2020-05-22
- */
+
 data class TreeDetailItem(
     val id: Int,
     val chapterName: String,

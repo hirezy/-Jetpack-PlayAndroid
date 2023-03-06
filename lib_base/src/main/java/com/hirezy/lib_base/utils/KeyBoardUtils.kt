@@ -4,9 +4,6 @@ import android.content.Context
 import android.view.View
 import android.view.inputmethod.InputMethodManager
 
-/**
- * Create by liwen on 2020/6/1
- */
 object KeyBoardUtils {
     fun showKeyboard(view: View) {
         val imm = view.context

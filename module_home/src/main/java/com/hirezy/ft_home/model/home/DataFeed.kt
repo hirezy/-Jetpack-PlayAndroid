@@ -2,9 +2,7 @@ package com.hirezy.ft_home.model.home
 
 import com.hirezy.lib_base.model.DatasBean
 
-/**
- * Create by liwen on 2020-05-19
- */
+
 data class DataFeed(
     val curPage: Int,
     val offset: Int,

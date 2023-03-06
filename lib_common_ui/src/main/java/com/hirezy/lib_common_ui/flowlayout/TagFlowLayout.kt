@@ -7,9 +7,7 @@ import android.view.View
 import com.hirezy.lib_common_ui.flowlayout.adapter.TagAdapter
 import com.hirezy.lib_common_ui.flowlayout.`interface`.NotifyDataSetChangedListener
 
-/**
- * Create by liwen on 2020-05-21
- */
+
 class TagFlowLayout @JvmOverloads constructor(
     context: Context,
     attributeSet: AttributeSet? = null,

@@ -10,9 +10,7 @@ import com.hirezy.lib_base.utils.StatusBarKt
 import org.koin.androidx.viewmodel.ext.android.getViewModel
 import kotlin.reflect.KClass
 
-/**
- * Create by liwen on 2020-05-18
- */
+
 abstract class BaseActivity<T : ViewModel, M : ViewDataBinding> : AppCompatActivity() {
 
     lateinit var mViewModel: T

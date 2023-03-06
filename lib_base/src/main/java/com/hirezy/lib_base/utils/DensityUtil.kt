@@ -4,9 +4,6 @@ import android.content.res.Configuration
 import android.content.res.Resources
 import android.util.DisplayMetrics
 
-/**
- * Created by liwen on 2015/10/10.
- */
 object DensityUtil {
 
     /**
