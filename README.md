@@ -100,11 +100,13 @@ DataSource来完成。具体也会在后续文章中进行讲解。
 https://github.com/lulululbj/wanandroid 项目提供的一些思路。
 
 #### 扫描下方二维码关注公众号，获取更多技术干货。
-
 ![](source/qrcode.jpg)
 ![](source/serachwx.png)
 
-个人资料
-Csdn:https://blog.csdn.net/ljx1400052550
-Gitee:https://gitee.com/hirezy18271568836
-Github:https://github.com/hirezy/
+## 个人博客
+|  name   | url  |
+|  ----  | ----  |
+| Csdn  | https://blog.csdn.net/ljx1400052550 |
+| Gitee  | https://gitee.com/hirezy18271568836 |
+| Github  | https://github.com/hirezy/ |
+

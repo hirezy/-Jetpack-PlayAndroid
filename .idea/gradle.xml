@@ -25,6 +25,7 @@
             <option value="$PROJECT_DIR$/module_tree_detail" />
           </set>
         </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
